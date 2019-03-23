@@ -1,3 +1,8 @@
+# Linux
+
+## Cheatsheets
+![Linux basic commands](images/linux_basic_commands.jpg)
+
 # React-Native
 
 ## Troubleshooting
